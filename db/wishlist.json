@@ -1,0 +1,40 @@
+{
+    "countries": [
+        {
+            "id": 1,
+            "name": "Albania",
+            "alpha2Code": "AL",
+            "alpha3Code": "ALB"
+        },
+        {
+            "id": 2,
+            "name": "Canada",
+            "alpha2Code": "CA",
+            "alpha3Code": "CAN"
+        },
+        {
+            "id": 3,
+            "name": "Ecuador",
+            "alpha2Code": "EC",
+            "alpha3Code": "ECU"
+        },
+        {
+            "id": 4,
+            "name": "Ecuador",
+            "alpha2Code": "MT",
+            "alpha3Code": "MLT"
+        },
+        {
+            "id": 5,
+            "name": "Uruguay",
+            "alpha2Code": "UY",
+            "alpha3Code": "URY"
+        },
+        {
+            "id": 6,
+            "name": "Zambia",
+            "alpha2Code": "ZM",
+            "alpha3Code": "ZMB"
+        }
+    ]
+}
